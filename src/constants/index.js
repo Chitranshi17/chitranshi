@@ -12,7 +12,7 @@ import {
   import weather from "../assets/project/weather.png"
   import Quoto from "../assets/project/Q.png"
   import expense from "../assets/project/Expense.png"
-  import jimdo from "../assets/project/jimdo.png"
+  import jimdo from "../assets/project/Jimdo.png"
   import task from "../assets/project/Task.png"
   import cryptomania from "../assets/project/CryptoMania.png"
   import material from "../assets/tech/material.png"
